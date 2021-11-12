@@ -120,5 +120,5 @@ $
   - [Blog LinkedIn](https://www.linkedin.com/pulse/what-happens-when-you-type-ls-l-shell-marisol-ram%C3%ADrez-henao/?published=t)
 
 ## Authors
-- **Robel Gulima** - [Robel github](https://github.com/robel625)
-- **Natnael Workneh** 
+- **Yonatan Ngusu** - [Robel github](https://github.com/robel625)
+- **Anne Usoroh** 
